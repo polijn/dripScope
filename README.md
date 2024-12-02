@@ -16,11 +16,6 @@ the first and simplest version is the LEGO Prototype.
 - 1x imaging_module_v1.stl 
 - 1x neck_v1.stl 
 
-### LEGO Prototype (simplest)
-
-- 1x image_sensor_holder_v1.stl
-- 1x laser_holder_v1.stl
-- 1x sample_holder_v1.stl
 
 
 ## Print
