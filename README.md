@@ -6,7 +6,6 @@ dripScope was designed and developed during my master thesis "A Multimodal, Low-
 ## Parts
 during development of the mobile reader different prototypes were build.
 the latest version is the uTAS Prototype.
-the first and simplest version is the LEGO Prototype.
 
 ### uTAS Prototype (latest)
 
